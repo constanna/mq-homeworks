@@ -1,7 +1,3 @@
-.container {
-  min-width: 1024px;
-}
-
 .trophies {
   display: flex;
   flex-direction: column-reverse;
