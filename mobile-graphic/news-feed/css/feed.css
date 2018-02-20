@@ -1,0 +1,12 @@
+@media (min-width: 641px) {
+  .news__list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  .news__card {
+    width: 45%;
+  }
+}

@@ -1,0 +1,7 @@
+.search__icon {
+  fill: #ffffff;
+}
+
+.search__field:hover ~ .search__icon {
+  fill: #6441a5;
+}
