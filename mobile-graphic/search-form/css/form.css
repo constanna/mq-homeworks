@@ -2,6 +2,6 @@
   fill: #ffffff;
 }
 
-.search__field:hover ~ .search__icon {
+.search__field:focus ~ .search__icon {
   fill: #6441a5;
 }
